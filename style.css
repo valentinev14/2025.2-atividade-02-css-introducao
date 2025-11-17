@@ -9,13 +9,13 @@ body {
     font-size: 16px;
     color: #ffffff;
     text-align: left;
-    background-color: darkslategray;
+    background-color: rgb(65, 14, 94);
 }
 
 
 h1 {
     font-size: 36px;
-    color: #fdfdfd;
+    color: #ffffff;
     text-align: center;
 }
 
@@ -27,7 +27,7 @@ h2 {
 
 h3 {
     font-size: 24px;
-    color: #f1f1f1;
+    color: #ffffff;
     text-align: left;
 }
 
@@ -43,7 +43,7 @@ h5 {
 
 h6 {
     font-size: 16px;
-    color: #fffcfc;
+    color: #ffffff;
 }
 
 
@@ -62,31 +62,19 @@ span {
     font-size: 14px;
 }
 
+.links-pessoais {
+    background-color: #0066cc;
+    border-radius: 8px;
 
-.destaque {
-    color: #e74c3c;
-    font-size: 16px;
-}
-
-
-.secao {
-    text-align: center;
-}
-
-
-.link-social {
-    color: #16a085;
-    font-size: 15px;
-}
-
-
-.tecnologia {
-    color: #856d8f;
-    font-size: 14px;
 }
 
 .estudos-atuais {
-    color: #97F9F9;
-    background-color: #f1f1f1;
+    background-color: #0066cc;
+    border-radius: 8px;
 
+}
+
+.tecnologias {
+    background-color: #0066cc;
+    border-radius: 8px;
 }
