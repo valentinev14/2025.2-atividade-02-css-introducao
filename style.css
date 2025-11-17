@@ -34,8 +34,6 @@ h3 {
 h4 {
     font-size: 20px;
     color: #ffffff;
-    margin-top: 15px;
-    margin-bottom: 5px;
 }
 
 h5 {
@@ -85,4 +83,10 @@ span {
 .tecnologia {
     color: #856d8f;
     font-size: 14px;
+}
+
+.estudos atuais {
+    background-color: #f1f1f1;
+    border-left: #856d8f;
+
 }
